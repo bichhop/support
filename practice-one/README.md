@@ -20,7 +20,6 @@ https://www.os-templates.com/free-psd-templates/time-4-school
 * Visual studio code
 * Photoshop CS6
 
-```
 ## Guideline
 * Open link: https://github.com/bichhop/support/tree/master/practice-one
 * Download source code
